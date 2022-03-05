@@ -14,8 +14,8 @@
           Last updated: March 4, 2022
         </div>
         <div class="resume__download">
-          <span>download: </span>
-          <a href="/pdfs/tanmaysubaresume2022.pdf" target="_blank">resume</a>
+          <!-- <span>download: </span> -->
+          <!-- <a href="/pdfs/tanmaysubaresume2022.pdf" target="_blank">resume</a> -->
           <!-- <a href="/pdfs/tanmaysubaresume2022.pdf" target="_blank">curriculum vitae</a> -->
         </div>
       </div>

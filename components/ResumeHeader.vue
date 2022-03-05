@@ -42,13 +42,13 @@ export default {
             iconClass: 'email',
             iconKind: 'icon-envelope-square',
           },
-          {
+          /*{
             title: 'Github',
             text: 'github.com/tssuba',
             link: 'http://github.com/tssuba',
             iconClass: 'github',
             iconKind: 'icon-github-square',
-          },
+          },*/
           /*{
             title: 'Linkedin',
             text: 'linkedin.com/in/sztoo',

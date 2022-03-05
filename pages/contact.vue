@@ -19,10 +19,10 @@ export default {
             title: 'Linkedin',
             link: 'http://linkedin.com/in/tanmay-suba'
           },*/
-          { 
+          /*{ 
             title: 'Github',
             link: 'http://github.com/tssuba'
-          }
+          }*/
         ],
     }
   }
