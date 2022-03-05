@@ -16,6 +16,9 @@ export default {
   },
 
   target: 'static', // default is 'server'
+  router: {
+    base: '/tssuba.github.io/'
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
